@@ -25,7 +25,7 @@
   <table class="w-100">
     <tr>
       <td>
-        <h5>Nama</h5>
+        <h5>Nama Lengkap</h5>
       </td>
       <td>
         <div class="input-group">
@@ -79,7 +79,7 @@
           </div>
           <input type="text" required class="form-control" name="umur">
           <div class="input-group-append">
-            <span class="input-group-text">Thn</span>
+            <span class="input-group-text">Tahun</span>
           </div>
         </div>
       </td>
